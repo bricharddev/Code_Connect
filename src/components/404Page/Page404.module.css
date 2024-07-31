@@ -1,0 +1,36 @@
+.container {
+    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.title {
+  font-size: 37px;
+  font-weight: 500;
+  line-height: 44.4px;
+  color: #81fe88;
+  margin: 0;
+}
+
+.description {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 39px;
+  color: #BCBCBC;
+  margin: 0;
+}
+
+.link {
+  width: 226px;
+  height: 27px;
+  color: #81fe88;
+  
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
